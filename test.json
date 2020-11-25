@@ -1,1 +1,5 @@
-ankit
+{
+    "@odata.context": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v3/PTC/$metadata#PTC.CSRFToken",
+    "NonceKey": "CSRF_NONCE",
+    "NonceValue": "XCs/H4FUYgoOJ4/NBXhqVfU2DFpHFuOjBWZVTdA+BXpLRuH9c0APdrUyVTx/X7aUKVtlasU6Vjc0Frn9ahkPJ7RjVTs9FbW1EFpUceQaUGlCdsemLARNVLYgMUZpGrI="
+}
