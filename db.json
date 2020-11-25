@@ -1,13 +1,4 @@
-{
-    "@odata.context": "$metadata#PartStructureItems",
-    "PartId": "OR:wt.part.WTPart:147233",
-    "PartUseId": null,
-    "PartName": "01-2_engine.asm",
-    "PartNumber": "WCDS000594",
-    "PathId": null,
-    "PVTreeId": "/",
-    "PVParentTreeId": null,
-    "Components": [
+ [
         {
             "PartId": "OR:wt.part.WTPart:85062",
             "PartUseId": "OR:wt.part.WTPartUsageLink:147235",
@@ -711,4 +702,3 @@
             }
         }
     ]
-}
