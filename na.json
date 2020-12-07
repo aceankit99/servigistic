@@ -1,0 +1,54 @@
+        [{
+            "PartId": "Not Available",
+            "PartUseId": "Not Available",
+            "PartName": "Not Available",
+            "PartNumber": "Not Available",
+            "PathId": "370",
+            "PVTreeId": "/370",
+            "PVParentTreeId": "/",
+            "Part": {
+                "@odata.id": "Not Available",
+                "Name": "Not Available",
+                "Number": "Not Available"
+            },
+            "PartUse": {
+                "CreatedOn": "Not Available",
+                "ID": "Not Available",
+                "LastModified": "Not Available",
+                "FindNumber": null,
+                "LineNumber": null,
+                "ObjectType": "Not Available",
+                "PartOccurrenceAssignedExpression": "",
+                "Quantity": 1.0,
+                "ReferenceDesignatorRange": "",
+                "TraceCode": {
+                    "Value": "Not Available",
+                    "Display": "Not Available"
+                },
+                "Unit": {
+                    "Value": "Not Available",
+                    "Display": "Not Available"
+                }
+            },
+            "Occurrence": {
+                "CreatedOn": "Not Available",
+                "ID": "Not Available",
+                "LastModified": "Not Available",
+                "BuildStatus": {
+                    "Value": "Not Available",
+                    "Display": "Not Available"
+                },
+                "ComponentID": null,
+                "Location": {
+                    "PointX": 1.0E-23,
+                    "PointY": -0.09,
+                    "PointZ": 0.1715,
+                    "PointUnit": "m",
+                    "AngleX": 3.141592653589793,
+                    "AngleY": -0.0,
+                    "AngleZ": 1.5707963267948966,
+                    "AngleUnit": "r"
+                },
+                "ReferenceDesignator": null
+            }
+        }]
