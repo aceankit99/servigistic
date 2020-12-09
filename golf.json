@@ -1,6 +1,4 @@
-{
-    "@odata.context": "http://bltsp00509.lnties.com/Windchill/servlet/odata/v2/Visualization/$metadata#Representations",
-    "value": [
+[
         {
             "AdditionalFiles": [
                 {
@@ -67,4 +65,3 @@
             }
         }
     ]
-}
